@@ -32,3 +32,11 @@ Pull request are welcome but please open an issue and discuss what you will do b
 
 ## License 📄
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Contributing 💡
+Pull request are welcome but please open an issue and discuss what you will do before 😊
+
+## Like this project? 💖
+
+If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
+
