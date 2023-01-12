@@ -9,6 +9,12 @@ Python Starter Project!
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/rock_paper_scissor?logo=GitHub)](https://github.com/letnagao/rock_paper_scissor/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
+</ul><h2> Preview ⚡️</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99754900/212074398-84401ae3-f53a-4d41-8d9d-05baaa473a65.jpg" />
+  <img src="https://user-images.githubusercontent.com/99754900/212074407-2123c308-09ae-4f41-8bf8-bead970df39e.jpg" />
+</p> 
+
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>Python</li>
